@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.58e1373c.css",
-    "main.js": "/react-gh-pages/static/js/main.c01c24fd.js",
-    "index.html": "/react-gh-pages/index.html",
-    "static/media/search.svg": "/react-gh-pages/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
-    "main.58e1373c.css.map": "/react-gh-pages/static/css/main.58e1373c.css.map",
-    "main.c01c24fd.js.map": "/react-gh-pages/static/js/main.c01c24fd.js.map"
+    "main.css": "//sreedevareddy.github.io/MovieInfo/static/css/main.58e1373c.css",
+    "main.js": "//sreedevareddy.github.io/MovieInfo/static/js/main.85f1bc7a.js",
+    "index.html": "//sreedevareddy.github.io/MovieInfo/index.html",
+    "static/media/search.svg": "//sreedevareddy.github.io/MovieInfo/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.58e1373c.css.map": "//sreedevareddy.github.io/MovieInfo/static/css/main.58e1373c.css.map",
+    "main.85f1bc7a.js.map": "//sreedevareddy.github.io/MovieInfo/static/js/main.85f1bc7a.js.map"
   },
   "entrypoints": [
     "static/css/main.58e1373c.css",
-    "static/js/main.c01c24fd.js"
+    "static/js/main.85f1bc7a.js"
   ]
 }
