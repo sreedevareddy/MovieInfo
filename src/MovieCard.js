@@ -11,7 +11,7 @@ const MovieCard = ({ movie: { imdbID, Year, Poster, Title, Type } }) => {
   }, []);
 
   const searchMovies = async (id) => {
-    const response = await fetch(`${API_URL}&i=${id}`);
+    const response = await fetch(`${API_URL}&i=${id}`, { referrerPolicy: "unsafe_url"});
     const data = await response.json();
 
     setMovieData(data);
