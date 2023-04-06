@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "//sreedevareddy.github.io/MovieInfo/static/css/main.58e1373c.css",
-    "main.js": "//sreedevareddy.github.io/MovieInfo/static/js/main.85f1bc7a.js",
+    "main.js": "//sreedevareddy.github.io/MovieInfo/static/js/main.94a2ebe0.js",
     "index.html": "//sreedevareddy.github.io/MovieInfo/index.html",
     "static/media/search.svg": "//sreedevareddy.github.io/MovieInfo/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
     "main.58e1373c.css.map": "//sreedevareddy.github.io/MovieInfo/static/css/main.58e1373c.css.map",
-    "main.85f1bc7a.js.map": "//sreedevareddy.github.io/MovieInfo/static/js/main.85f1bc7a.js.map"
+    "main.94a2ebe0.js.map": "//sreedevareddy.github.io/MovieInfo/static/js/main.94a2ebe0.js.map"
   },
   "entrypoints": [
     "static/css/main.58e1373c.css",
-    "static/js/main.85f1bc7a.js"
+    "static/js/main.94a2ebe0.js"
   ]
 }
