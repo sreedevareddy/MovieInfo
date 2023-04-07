@@ -15,7 +15,7 @@ const App = () => {
   }, []);
 
   const searchMovies = async (title) => {
-    const response = await fetch(`${API_URL}&s=${title}`, { referrerPolicy: "unsafe_url"});
+    const response = await fetch(`${API_URL}&s=${title}`);
     const data = await response.json();
 
     setMovies(data.Search);
@@ -40,8 +40,8 @@ const App = () => {
 
       {movies.length > 0 ? (
         <div className="container">
-          {movies.map((movie) => (
-            <MovieCard movie={movie} />
+          {movies.map((movie, i) => (
+            <MovieCard key={i} movie={movie} />
           ))}
         </div>
       ) : (
